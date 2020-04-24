@@ -1,5 +1,7 @@
-# Polyticks :: vT2020
-init &amp; admin
+# Polyticks
+
+
+> init &amp; admin
 
 + Branding / Logo
-+ git the feel
++ _git the feel_
